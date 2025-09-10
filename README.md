@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Jordão.</h1>
 
 <p align="center">
-  Com uma bagagem sólida em Suporte ao Cliente, fiz a transição para a área de tecnologia com um foco claro: <strong>prevenir bugs antes que eles aconteçam</strong>. Acredito que a Qualidade de Software não é apenas sobre encontrar erros, mas sobre construir a melhor experiência possível para o usuário final. Estou sempre em busca de novos desafios e formas de automatizar processos para garantir entregas mais rápidas e seguras.
+  Acredito que a Qualidade de Software não é apenas sobre encontrar erros, mas sobre construir a melhor experiência possível para o time de desenvolvimento e para o usuário final. Em busca de novos desafios e processos modernos para garantir entregas mais rápidas e seguras.
 </p>
 
 <h3 align="center">O que eu faço 🚀</h3>
@@ -17,8 +17,6 @@
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
-### 🛠️ Minhas Ferramentas e Tecnologias
-
 <div align="center">
   <a href="https://www.cypress.io" target="_blank"><img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
@@ -28,6 +26,7 @@
   <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
 </div>
+
 ---
 
 ### 🌟 Projeto em Destaque
