@@ -20,41 +20,32 @@
 <p align="center">
 
   <a href="https://www.cypress.io" target="_blank"> <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/> </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
-
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-
-  <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> </a>
-
-  <br>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> </a>
+  <br>
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/> </a>
-
-  <a href="https://www.gurock.com/testrail/" target="_blank"> <img src="https://img.shields.io/badge/TestRail-1C2024?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail"/> </a>
-
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> </a>
+  <a href="https://www.gurock.com/testrail/" target="_blank"> <img src="https://img.shields.io/badge/TestRail-1C2024?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> </a>
 
 </p>
 
 ---
 
 ### 🌟 Projeto em Destaque
-
 <table width="100%">
   <tr>
     <td width="70%">
       <h3>Projeto de Automação de Testes E2E com Cypress</h3>
       <p>Um projeto completo de automação de testes para um e-commerce fictício. O objetivo foi aplicar as melhores práticas de mercado para garantir a estabilidade e a qualidade dos fluxos críticos da aplicação, como login, busca de produtos, carrinho e checkout.</p>
-      <p><strong>O que eu aprendi:</strong></p>
-      <ul>
-        <li>Setup e configuração de um ambiente Cypress do zero.</li>
-        <li>Criação de Comandos Customizados para abstrair a lógica e evitar repetição (DRY).</li>
-        <li>Uso de seletores estáveis (data-test) e boas práticas de organização de testes.</li>
+      <p><strong>O que eu aprendi:</strong></p>
+      <ul>
+        <li>Setup e configuração de um ambiente Cypress do zero.</li>
+        <li>Criação de Comandos Customizados para abstrair a lógica e evitar repetição (DRY).</li>
+        <li>Uso de seletores estáveis (data-test) e boas práticas de organização de testes.</li>
         <li>Implementação de testes para cenários positivos e negativos.</li>
-      </ul>
-
-      <a href="https://github.com/jordaoaq/test-automation-cypress-saucedemo">➡️ Veja o repositório do projeto aqui</a>
+      </ul>
+      <a href="https://github.com/jordaoaq/test-automation-cypress-saucedemo">➡️ Veja o repositório do projeto aqui</a>
 
     </td>
 
@@ -68,36 +59,16 @@
 
 </table>
 
-
-
 ---
-
-
 
 ### 📊 Minhas Estatísticas no GitHub
-
-
-
 <p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordaoaq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordaoaq&layout=compact&langs_count=7&theme=dracula"/>
-
 </p>
-
-
 
 ---
 
-
-
 ### 📫 Conecte-se Comigo
-
-
-
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/jordaoaq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-  </p>
+  <a href="https://www.linkedin.com/in/jordaoaq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
