@@ -1,31 +1,46 @@
-<h1 align="center">Olá! 👋 Eu sou o Jordão.</h1>
+# Olá! 👋 Eu sou o Jordão.
 
-<p align="center">
-  Acredito que a Qualidade de Software não é apenas sobre encontrar erros, mas sobre construir a melhor experiência possível para o time de desenvolvimento e para o usuário final. Em busca de novos desafios e processos modernos para garantir entregas mais rápidas e seguras.
-</p>
+Sou um profissional focado em construir soluções eficientes, seja através do desenvolvimento de software, da automação de processos ou da garantia de qualidade. Uso da tecnologia como uma extensão da capacidade humana e sou apaixonado por transformar em realidade aquilo que é abstrato.
 
-<h3 align="center">O que eu faço 🚀</h3>
+### O que eu faço 🚀
 
-<p align="center">
-  ✅ Garanto a qualidade de software através da criação e execução de planos de teste robustos.<br>
-  ⚙️ Automatizo testes End-to-End para validar fluxos críticos e aumentar a confiabilidade das aplicações.<br>
-  🐞 Realizo uma análise detalhada e documentação de bugs para otimizar o ciclo de desenvolvimento.<br>
-  🤝 Colaboro ativamente em equipes Ágeis, participando de todo o ciclo de vida do produto.
-</p>
+💻 **Desenvolvimento:** Crio aplicações e APIs, explorando tecnologias como TypeScript, Node.js e bancos de dados para construir soluções robustas.
 
+🤖 **Automação de Processos e IA:** Desenvolvo automações complexas para otimizar tarefas, utilizando ferramentas como **n8n** para criar workflows integrados. Tenho experiência na construção de chatbots (com **AIML**) e no gerenciamento de contexto de sessão usando **Redis**.
+
+🧪 **Qualidade de Software:** Garanto a qualidade do ciclo de vida do produto, desde a análise detalhada e documentação de bugs até a criação de estratégias e execução de testes manuais e automatizados (E2E, API).
+
+🤝 **Colaboração:** Colaboro ativamente em equipes Ágeis, participando de todo o ciclo de vida do produto e facilitando a comunicação entre desenvolvimento, produto e usuários.
+
+> "Para onde vamos, não precisamos de estradas."
+>
+> — *Dr. Emmett Brown, De Volta para o Futuro*
 ---
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
-<div align="center">
-  <a href="https://www.cypress.io" target="_blank"><img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <br>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-</div>
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![n8n](https://img.shields.io/badge/n8n-1A0142?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)](https://www.cypress.io)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+---
+
+### 🔬 Explorações e Hobbies na Tecnologia
+
+Além do meu foco profissional, tenho paixão por explorar outras áreas criativas da tecnologia:
+
+* **🎮 Game Development:** Gosto de criar pequenos jogos, explorando a lógica de programação e o design criativo de gameloops (PICO-8 e Lua, Godot, GameMaker).
+* **🎵 Live Coding Music:** Crio música através de código, utilizando a plataforma [Strudel.cc](https://strudel.cc/) para explorar a intersecção entre arte algorítmica e som.
 
 ---
 
