@@ -52,8 +52,8 @@ Além do meu foco profissional, tenho paixão por explorar outras áreas criativ
 <table width="100%">
   <tr>
     <td width="70%">
-      <h3>👾 SUSIEfriend: Interactive Desktop Companion</h3>
-      <p>Um desktop pet interativo que traz a personagem Susie (Deltarune) para a barra de tarefas. Desenvolvido para ser leve e não intrusivo, o projeto foca em interatividade e lógica de jogo aplicada ao ambiente desktop.</p>
+      <h3>👾 SUSIEfriend </h3>
+      <p>Um desktop companion interativo que traz a personagem Susie (Deltarune) para a barra de tarefas. Desenvolvido para ser leve e não intrusivo, o projeto foca em interatividade e lógica de jogo aplicada ao ambiente desktop.</p>
       <p><strong>Destaques técnicos:</strong></p>
       <ul>
         <li><strong>Electron & Vanilla JS:</strong> Loop de renderização otimizado sem frameworks pesados.</li>
@@ -70,12 +70,12 @@ Além do meu foco profissional, tenho paixão por explorar outras áreas criativ
 
   <tr>
     <td width="70%">
-      <h3>👻 GhostShare: P2P File Transfer (Serverless)</h3>
+      <h3>👻 GhostShare </h3>
       <p>Uma aplicação de transferência de arquivos focada em privacidade absoluta. Utiliza WebRTC para criar túneis de dados diretos entre navegadores, permitindo envio de arquivos gigantes sem passar por servidores de armazenamento.</p>
       <p><strong>Destaques técnicos:</strong></p>
       <ul>
         <li><strong>WebRTC & Simple-Peer:</strong> Conexão Peer-to-Peer real; os dados nunca tocam o backend.</li>
-        <li><strong>Memory Efficiency:</strong> Uso de <code>StreamSaver.js</code> para gravar arquivos de 10GB+ direto no disco.</li>
+        <li><strong>Memory Efficiency:</strong> Uso de <code>StreamSaver.js</code> para gravar arquivos maiores que 1GB direto no disco.</li>
         <li><strong>Privacidade:</strong> Sem banco de dados, sem logs e sem persistência de arquivos.</li>
       </ul>
       <a href="https://github.com/jordaoaq/GhostShare">➡️ Veja o repositório do GhostShare</a>
@@ -87,13 +87,13 @@ Além do meu foco profissional, tenho paixão por explorar outras áreas criativ
 
   <tr>
     <td width="70%">
-      <h3>🍫 MeuPrimeiroBrownie: Assistente de Cozinha Acessível</h3>
+      <h3>🍫 MeuPrimeiroBrownie </h3>
       <p>Um assistente desktop offline-first para culinária. O projeto se destaca pela arquitetura segura e foco total em acessibilidade, permitindo navegação completa via teclado e leitores de tela.</p>
       <p><strong>Destaques técnicos:</strong></p>
       <ul>
         <li><strong>Acessibilidade (a11y):</strong> Semântica ARIA, alto contraste e navegação via teclado.</li>
         <li><strong>Persistência Local:</strong> Manipulação de arquivos JSON locais (Node.js <code>fs</code>) para salvar receitas customizadas.</li>
-        <li><strong>Utilidade diária:</strong> Para consistênia de brownies perfeitos todas as vezes.</li>
+        <li><strong>Utilidade diária:</strong> Para consistência de brownies perfeitos, todas as vezes.</li>
         <li><strong>Offline-First:</strong> Funciona 100% sem conexão com a internet.</li>
       </ul>
       <a href="https://github.com/jordaoaq/MeuPrimeiroBrownie">➡️ Veja o repositório do Brownie</a>
