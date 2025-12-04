@@ -44,39 +44,85 @@ Além do meu foco profissional, tenho paixão por explorar outras áreas criativ
 
 ---
 
-### 🌟 Projeto em Destaque
+### 🌟 Projetos em Destaque
 <table width="100%">
   <tr>
     <td width="70%">
-      <h3>Projeto de Automação de Testes E2E com Cypress</h3>
-      <p>Um projeto completo de automação de testes para um e-commerce fictício. O objetivo foi aplicar as melhores práticas de mercado para garantir a estabilidade e a qualidade dos fluxos críticos da aplicação, como login, busca de produtos, carrinho e checkout.</p>
+      <h3>👾 SUSIEfriend: Interactive Desktop Companion</h3>
+      <p>Um desktop pet interativo que traz a personagem Susie (Deltarune) para a barra de tarefas. Desenvolvido para ser leve e não intrusivo, o projeto foca em interatividade e lógica de jogo aplicada ao ambiente desktop.</p>
+      <p><strong>Destaques técnicos:</strong></p>
+      <ul>
+        <li><strong>Electron & Vanilla JS:</strong> Loop de renderização otimizado sem frameworks pesados.</li>
+        <li><strong>Física & Interação:</strong> Implementação de gravidade e sistema "Drag & Drop".</li>
+        <li><strong>Máquina de Estados:</strong> Comportamentos autônomos aleatórios (andar, dormir, espreguiçar).</li>
+        <li><strong>Integração nativa:</strong> Controle via System Tray e detecção de bordas da tela.</li>
+      </ul>
+      <a href="https://github.com/jordaoaq/SUSIEfriend">➡️ Veja o repositório da Susie</a>
+    </td>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/jordaoaq/SUSIEfriend/main/assets/prints/print_parada.png" alt="Susie Desktop Pet" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="70%">
+      <h3>👻 GhostShare: P2P File Transfer (Serverless)</h3>
+      <p>Uma aplicação de transferência de arquivos focada em privacidade absoluta. Utiliza WebRTC para criar túneis de dados diretos entre navegadores, permitindo envio de arquivos gigantes sem passar por servidores de armazenamento.</p>
+      <p><strong>Destaques técnicos:</strong></p>
+      <ul>
+        <li><strong>WebRTC & Simple-Peer:</strong> Conexão Peer-to-Peer real; os dados nunca tocam o backend.</li>
+        <li><strong>Memory Efficiency:</strong> Uso de <code>StreamSaver.js</code> para gravar arquivos de 10GB+ direto no disco.</li>
+        <li><strong>Privacidade:</strong> Sem banco de dados, sem logs e sem persistência de arquivos.</li>
+      </ul>
+      <a href="https://github.com/jordaoaq/GhostShare">➡️ Veja o repositório do GhostShare</a>
+    </td>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/jordaoaq/GhostShare/main/assets/screenshots/ghostshare_sc.png" alt="GhostShare Preview" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="70%">
+      <h3>🍫 MeuPrimeiroBrownie: Assistente de Cozinha Acessível</h3>
+      <p>Um assistente desktop offline-first para culinária. O projeto se destaca pela arquitetura segura e foco total em acessibilidade, permitindo navegação completa via teclado e leitores de tela.</p>
+      <p><strong>Destaques técnicos:</strong></p>
+      <ul>
+        <li><strong>Acessibilidade (a11y):</strong> Semântica ARIA, alto contraste e navegação via teclado.</li>
+        <li><strong>Persistência Local:</strong> Manipulação de arquivos JSON locais (Node.js <code>fs</code>) para salvar receitas customizadas.</li>
+        <li><strong>Segurança Electron:</strong> Implementação de <code>contextIsolation</code> e ponte segura entre processos.</li>
+        <li><strong>Offline-First:</strong> Funciona 100% sem conexão com a internet.</li>
+      </ul>
+      <a href="https://github.com/jordaoaq/MeuPrimeiroBrownie">➡️ Veja o repositório do Brownie</a>
+    </td>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/jordaoaq/MeuPrimeiroBrownie/main/src/assets/screenshots/meuprimeirobrownie_titulo.png" alt="MeuPrimeiroBrownie Tela Inicial" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="70%">
+      <h3>🧪 Automação de Testes E2E com Cypress</h3>
+      <p>Um projeto completo de automação de testes para um e-commerce fictício. O objetivo foi aplicar as melhores práticas de mercado para garantir a estabilidade e a qualidade dos fluxos críticos da aplicação.</p>
       <p><strong>O que eu aprendi:</strong></p>
       <ul>
         <li>Setup e configuração de um ambiente Cypress do zero.</li>
-        <li>Criação de Comandos Customizados para abstrair a lógica e evitar repetição (DRY).</li>
-        <li>Uso de seletores estáveis (data-test) e boas práticas de organização de testes.</li>
-        <li>Implementação de testes para cenários positivos e negativos.</li>
+        <li>Criação de Comandos Customizados para abstrair a lógica (DRY).</li>
+        <li>Uso de seletores estáveis (data-test) e boas práticas.</li>
+        <li>Implementação de testes para cenários positivos e negativos.</li>
       </ul>
-      <a href="https://github.com/jordaoaq/test-automation-cypress-saucedemo">➡️ Veja o repositório do projeto aqui</a>
-
-    </td>
-
-    <td width="30%">
-
-      <img src="https://raw.githubusercontent.com/jordaoaq/jordaoaq/refs/heads/main/assets/1755240322738.gif" alt="GIF do projeto" />
-
-    </td>
-
-  </tr>
-
+      <a href="https://github.com/jordaoaq/test-automation-cypress-saucedemo">➡️ Veja o repositório de testes</a>
+    </td>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/jordaoaq/jordaoaq/refs/heads/main/assets/1755240322738.gif" alt="GIF do projeto Cypress" />
+    </td>
+  </tr>
 </table>
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordaoaq&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordaoaq&theme=github_dark)
 
 ---
 
