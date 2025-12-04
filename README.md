@@ -70,7 +70,12 @@ Além do meu foco profissional, tenho paixão por explorar outras áreas criativ
 
   <tr>
     <td width="70%">
-      <h3>👻 GhostShare </h3>
+        <h3>
+        👻 GhostShare
+        <a href="https://ghostshare-p2p.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Acessar_App-007ACC?style=flat" height="20" alt="Acessar App" valign="middle"/>
+        </a>
+      </h3>
       <p>Uma aplicação de transferência de arquivos focada em privacidade absoluta. Utiliza WebRTC para criar túneis de dados diretos entre navegadores, permitindo envio de arquivos gigantes sem passar por servidores de armazenamento.</p>
       <p><strong>Destaques técnicos:</strong></p>
       <ul>
