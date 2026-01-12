@@ -35,7 +35,6 @@ Sou um profissional focado em construir soluções eficientes, seja através do 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 
 ---
 
@@ -96,7 +95,7 @@ Além do meu foco profissional, tenho paixão por explorar outras áreas criativ
       <p>Um assistente desktop offline-first para culinária. O projeto se destaca pela arquitetura segura e foco total em acessibilidade, permitindo navegação completa via teclado e leitores de tela.</p>
       <p><strong>Destaques técnicos:</strong></p>
       <ul>
-        <li><strong>Acessibilidade (a11y):</strong> Semântica ARIA, alto contraste e navegação via teclado.</li>
+        <li><strong>Acessibilidade (a11y):</strong> Semântica ARIA e navegação via teclado.</li>
         <li><strong>Persistência Local:</strong> Manipulação de arquivos JSON locais (Node.js <code>fs</code>) para salvar receitas customizadas.</li>
         <li><strong>Utilidade diária:</strong> Para consistência de brownies perfeitos, todas as vezes.</li>
         <li><strong>Offline-First:</strong> Funciona 100% sem conexão com a internet.</li>
