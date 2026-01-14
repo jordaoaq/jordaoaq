@@ -4,9 +4,9 @@ Sou um profissional focado em construir soluções eficientes, seja através do 
 
 ### O que eu faço 🚀
 
-💻 **Desenvolvimento:** Crio aplicações e APIs, explorando tecnologias como TypeScript, Node.js e bancos de dados para construir soluções robustas.
+💻 **Desenvolvimento:** Crio Aplicações e APIs, explorando tecnologias como TypeScript, Node.js e bancos de dados para construir soluções robustas.
 
-🤖 **Automação de Processos e IA:** Desenvolvo automações complexas para otimizar tarefas, utilizando ferramentas como **n8n** para criar workflows integrados. Tenho experiência na construção de chatbots (com **AIML**) e no gerenciamento de contexto de sessão usando **Redis**.
+🤖 **Automação de Processos e IA:** Desenvolvo automações complexas para otimizar tarefas, utilizando orquestradores como **n8n** para criar workflows integrados. Tenho experiência na construção de chatbots utilizando inteligência artificial, fluidez e com guardrails seguros, com gerenciamento de contexto de sessão usando **Redis**.
 
 🧪 **Qualidade de Software:** Garanto a qualidade do ciclo de vida do produto, desde a análise detalhada e documentação de bugs até a criação de estratégias e execução de testes manuais e automatizados (E2E, API).
 
@@ -43,7 +43,7 @@ Sou um profissional focado em construir soluções eficientes, seja através do 
 Além do meu foco profissional, tenho paixão por explorar outras áreas criativas da tecnologia:
 
 * **🎮 Game Development:** Gosto de criar pequenos jogos, explorando a lógica de programação e o design criativo de gameloops (PICO-8 e Lua, Godot, GameMaker).
-* **🎵 Live Coding Music:** Crio música através de código, utilizando a plataforma [Strudel.cc](https://strudel.cc/) para explorar a intersecção entre arte algorítmica e som.
+* **🎵 Live Coding Music:** Crio música através de código, utilizando [BeatDJ](https://www.soniare.net/beatdj/) [Strudel.cc](https://strudel.cc/) para explorar a intersecção entre som e arte algorítmica.
 
 ---
 
