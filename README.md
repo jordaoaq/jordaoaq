@@ -43,7 +43,7 @@ Sou um profissional focado em construir soluções eficientes, seja através do 
 Além do meu foco profissional, tenho paixão por explorar outras áreas criativas da tecnologia:
 
 * **🎮 Game Development:** Gosto de criar pequenos jogos, explorando a lógica de programação e o design criativo de gameloops (PICO-8 e Lua, Godot, GameMaker).
-* **🎵 Live Coding Music:** Crio música através de código, utilizando [BeatDJ](https://www.soniare.net/beatdj/) [Strudel.cc](https://strudel.cc/) para explorar a intersecção entre som e arte algorítmica.
+* **🎵 Live Coding Music:** Crio música através de código, utilizando [BeatDJ](https://www.soniare.net/beatdj/) e [Strudel.cc](https://strudel.cc/) para explorar a intersecção entre som e arte algorítmica.
 
 ---
 
