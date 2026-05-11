@@ -1,8 +1,6 @@
-# Olá! 👋 Eu sou o Jordão.
+# "Nada existe de grandioso sem paixão."
 
 Sou um profissional focado em construir soluções eficientes, seja através do desenvolvimento de software, da automação de processos ou da garantia de qualidade. Uso da tecnologia como uma extensão da capacidade humana e sou apaixonado por transformar em realidade aquilo que é abstrato.
-
-### O que eu faço 🚀
 
 💻 **Desenvolvimento:** Crio Aplicações e APIs, explorando tecnologias como TypeScript, Node.js e bancos de dados para construir soluções robustas.
 
@@ -12,13 +10,12 @@ Sou um profissional focado em construir soluções eficientes, seja através do 
 
 🤝 **Colaboração:** Colaboro ativamente em equipes Ágeis, participando de todo o ciclo de vida do produto e facilitando a comunicação entre desenvolvimento, produto e usuários.
 
-> "Para onde vamos, não precisamos de estradas."
->
-> — *Dr. Emmett Brown, De Volta para o Futuro*
----
-
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
+[![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
